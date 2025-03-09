@@ -1,5 +1,5 @@
 export const environment = {
     production: true,
-    apiUrl: '' // Will be replaced at runtime
+    apiUrl: 'https://blogapp-backend-vl52.onrender.com' // Will be replaced at runtime
   };
   
